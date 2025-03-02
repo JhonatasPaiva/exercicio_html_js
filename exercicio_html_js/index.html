@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Validação de números</h1>
+        <form id="form-validacao">
+            <input type="number" id="numero-a" required placeholder="Número A">
+            <input type="number" id="numero-b" required placeholder="Número B">
+            <p>Insira os números para realizar uma consulta</p>
+            <button type="submit">Validar</button>
+        </form>
+        <p class="success-message"></p>
+        <p class="error-message"></p>
+        <p class="igual-message"></p>
+    </div>
+    <script src="./main.js"></script>
+</body>
+</html>
