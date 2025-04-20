@@ -1,0 +1,205 @@
+23:02:18:498 @ [0x1200] - DEV - Mon Driver: true
+23:02:18:572 @ [0x1200] - DEV - OCR Version: b047bba7
+23:02:18:572 @ [0x1200] - Internals are Enabled!
+23:02:19:339 @ [0x1200] - Found bus with Vendor 0x1022, and Device id 0x790b
+23:02:19:339 @ [0x1200] - Internals Driver is OPEN!
+23:02:19:387 @ [0x1200] - I2CBUS - Created PIIX4 Bus on Base Address: b00, with Vendor: 1022, Device: 790b
+23:02:19:387 @ [0x1200] - Mutex - Attempting to acquire Global SMBus Mutex
+23:02:19:387 @ [0x1200] - Mutex - Failed to acquire Global SMBus Mutex. Error Code 2
+23:02:19:387 @ [0x1200] - Mutex - Successfully Created Global SMBus Mutex
+23:02:19:388 @ [0x1200] - I2CBUS - Created PIIX4 Bus on Base Address: b20, with Vendor: 1022, Device: 790b
+23:02:19:393 @ [0x1200] - Opened NvApi!
+23:02:19:393 @ [0x1200] - Opened NvApi Functions!
+23:02:19:394 @ [0x1200] - Adding NvGPU with PCI Identifiers 
+Name: NVIDIA GeForce RTX 3060 Ti 
+Vendor: 10de 
+SubVendor: 196e 
+Device: 2489 
+Sub Device: 1389
+23:02:19:394 @ [0x1200] - Mutex - Attempting to acquire Global ISA Mutex
+23:02:19:394 @ [0x1200] - Mutex - Failed to acquire Global ISA Mutex. Error Code 2
+23:02:19:394 @ [0x1200] - Mutex - Successfully Created Global ISA Mutex
+23:02:19:620 @ [0x2318] - UltraLight: Creating View with the following configuration:
+    width: 320
+    height: 200
+    device scale: 1
+    session id: 2
+23:02:20:411 @ [0x3274] - OCR - Detected Resolution 1920 x 1080
+23:02:20:411 @ [0x3274] - OCR - Engine Started!
+23:02:20:483 @ [0x19a8] - Conflicts - Active Process List
+AdjustService.exe
+AnyDesk.exe
+ApCent.exe
+ApplicationFrameHost.exe
+CalculatorApp.exe
+CompPkgSrv.exe
+EasyTuneEngineService.exe
+GCloud.exe
+GigabyteUpdateService.exe
+GoogleCrashHandler.exe
+GoogleCrashHandler64.exe
+GraphicsCardEngine.exe
+Lightshot.exe
+LockApp.exe
+Memory Compression
+MsMpEng.exe
+NVDisplay.Container.exe
+NVIDIA Share.exe
+NVIDIA Web Helper.exe
+NisSrv.exe
+PhoneExperienceHost.exe
+RPMDaemon.exe
+Registry
+RtkAudUService64.exe
+RuntimeBroker.exe
+SearchApp.exe
+SearchFilterHost.exe
+SearchIndexer.exe
+SearchProtocolHost.exe
+SecurityHealthService.exe
+SecurityHealthSystray.exe
+SgrmBroker.exe
+SignalRgb.exe
+StartMenuExperienceHost.exe
+System
+System Idle Process
+SystemSettings.exe
+TextInputHost.exe
+Update.exe
+UserOOBEBroker.exe
+WmiPrvSE.exe
+armsvc.exe
+audiodg.exe
+backgroundTaskHost.exe
+conhost.exe
+csrss.exe
+ctfmon.exe
+dasHost.exe
+dllhost.exe
+dwm.exe
+explorer.exe
+fontdrvhost.exe
+gameinputsvc.exe
+gamingservices.exe
+gamingservicesnet.exe
+lsass.exe
+nvcontainer.exe
+nvsphelper64.exe
+rundll32.exe
+services.exe
+sihost.exe
+smartscreen.exe
+smss.exe
+spoolsv.exe
+svchost.exe
+taskhostw.exe
+tasklist.exe
+wininit.exe
+winlogon.exe
+23:02:20:992 @ [0x3274] - OCR - Detected Resolution 1920 x 1080
+23:02:20:992 @ [0x3274] - OCR - Engine Started!
+23:02:21:813 @ [0x1200] - Window - Recalling Previous Window Position...
+23:02:30:404 @ [0x1200] - Motherboard Manufacturer: Gigabyte Technology Co., Ltd.
+23:02:30:404 @ [0x1200] - Motherboard Model: B450M DS3H V2
+23:02:30:404 @ [0x1200] - Motherboard Version: x.x
+23:02:30:433 @ [0x1200] - Operating System Name: Microsoft Windows 10 Pro
+23:02:30:433 @ [0x1200] - Operating System Version: 10.0.19045
+23:02:30:433 @ [0x1200] - Operating System BuildId: 19045
+23:02:30:436 @ [0x1200] - Found Mem?ria F?sica wth Clock Speed 3000Mhz, Manufacturer Unknown, Serial Number 010454DF, Model NULL, PartNumber TEAMGROUP-UD4-3000, and Capacity 8,00 GiB
+23:02:30:436 @ [0x1200] - Found Mem?ria F?sica wth Clock Speed 3000Mhz, Manufacturer Unknown, Serial Number 00000000, Model NULL, PartNumber CL16-18-18 D4-3000, and Capacity 16,00 GiB
+23:02:30:444 @ [0x1dd8] - -----------Component Scan Started -----------
+23:02:30:444 @ [0x10c4] - ----------- [DEPRECATED] I2C Device Scan Started -----------
+23:02:30:588 @ [0x10c4] - ----Scanning Vengeance Pro----
+23:02:30:620 @ [0x10c4] - ----End Of Vengeance Pro Scanning---
+23:02:30:620 @ [0x10c4] - ----Scanning For Corsair Vengeance Ram----
+23:02:30:623 @ [0x1dd8] - Component - Corsair_LC100_Panel.json - Led Coordinate Index 0:[6,2] is out of Width bounds and will not render properly!
+23:02:30:623 @ [0x1dd8] - Component - Corsair_LC100_Panel.json - Led Coordinate Index 1:[5,1] is out of Width bounds and will not render properly!
+23:02:30:623 @ [0x1dd8] - Component - Corsair_LC100_Panel.json - Led Coordinate Index 2:[4,0] is out of Width bounds and will not render properly!
+23:02:30:623 @ [0x1dd8] - Component - Corsair_LC100_Panel.json - Led Coordinate Index 8:[5,3] is out of Width bounds and will not render properly!
+23:02:30:652 @ [0x10c4] - ----Ending Scan for Corsair Vengeance Ram----
+23:02:30:656 @ [0x10c4] - ---Scanning for Aura Based Ram----
+23:02:30:698 @ [0x1dd8] - -----------Component Scan Finished -----------
+23:02:30:698 @ [0x1dd8] - ----------- Plugin Scan Started -----------
+23:02:30:702 @ [0x10c4] - Aura Ram - Address 0x39 has something on it
+23:02:30:798 @ [0x10c4] - Aura Ram - Address 0x39, Found Product Name: AUDA0-E6K5-0101
+23:02:30:798 @ [0x10c4] - Aura Ram - Found on Address 0x39
+23:02:30:820 @ [0x10c4] - Aura Ram - Address 0x70 has something on it
+23:02:30:822 @ [0x10c4] - Aura Ram - Address 0x70, Expected 0xff, Got 0x00
+23:02:30:824 @ [0x10c4] - Aura Ram - Address 0x71 has something on it
+23:02:30:826 @ [0x10c4] - Aura Ram - Address 0x71, Expected 0xff, Got 0x00
+23:02:30:855 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Asus Ampere/Lovelace GPU
+23:02:30:856 @ [0x10c4] - Aura Ram - Address 0x4f has something on it
+23:02:30:860 @ [0x10c4] - Aura Ram - Address 0x4f, Expected 0x00, Got 0x01
+23:02:30:878 @ [0x10c4] - ----Ending Scan of Aura Based Ram----
+23:02:30:878 @ [0x10c4] - ----------- [DEPRECATED] I2C Device Scan Finished -----------
+23:02:30:885 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: ASUS Legacy GPU
+23:02:30:891 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Asus SMBus Motherboard Controller
+23:02:30:968 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Address: [79], Found Device Model: []
+23:02:31:020 @ [0x2c30] - Driver Check - AMD Special Tools Driver: 1.7.16.218
+23:02:31:020 @ [0x2c30] - Driver Check - AMD GPIO Controller: 3.0.0.0
+23:02:31:020 @ [0x2c30] - Driver Check - AMD Processor: 10.0.19041.2251
+23:02:31:020 @ [0x2c30] - Driver Check - AMD SMBus: 5.12.0.38
+23:02:31:020 @ [0x2c30] - Driver Check - AMD PSP 10.0 Device: 5.19.0.0
+23:02:31:020 @ [0x2c30] - Driver Check - AMD High Definition Audio Device: 10.0.1.12
+23:02:31:020 @ [0x2c30] - Driver Check - AMD PCI: 1.0.0.89
+23:02:31:526 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Corsair Dominator Ram
+23:02:31:595 @ [0x11d4] - Cpu: AMD Ryzen 5 5600G with Radeon Graphics         
+23:02:31:595 @ [0x11d4] - Cpu Clock: 3901mhz
+23:02:31:595 @ [0x11d4] - Cpu Cores: 6 physical, 12 logical.
+23:02:31:598 @ [0x11d4] - BIOS Manufacturer: American Megatrends International, LLC.
+23:02:31:598 @ [0x11d4] - BIOS Version: BIOS Date: 08/03/22 11:10:07 Ver: 05.00011
+23:02:31:598 @ [0x11d4] - BIOS Release Date: agosto 03, 2022
+23:02:31:598 @ [0x11d4] - SMBIOS Version: 3.3 (5.17)
+23:02:31:598 @ [0x11d4] - Embedded Controller Version: 255.255
+23:02:31:598 @ [0x11d4] - BIOS Version Name: ALASKA - 1072009
+23:02:31:615 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Crucial Ballistix Ram
+23:02:31:740 @ [0x1200] - AMD PIIX4 Bus - 0x0b00 - I2CSlave added! Aura Compatible Ram on Memory address 0x39
+23:02:31:793 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: EVGA Ampere GPU
+23:02:32:088 @ [0x1200] - Conflicts - Now Watching for Process LightingService.exe, Number of References 1
+23:02:32:094 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: EVGA Turing GPU
+23:02:32:152 @ [0x1dd8] - PLUGIN - Failed to load plugin @ C:/Users/jhona/AppData/Local/VortxEngine/app-2.2.29/Signal-x64/Plugins/Glorious/GMMK_Full_Size.js - ProductId() returned [0], VendorId() returned [3141]
+23:02:32:273 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Kingston Hyper Fury Ram
+23:02:32:287 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Address [81], Reg 31: 25
+23:02:32:289 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Address [73], Reg 21: -1
+23:02:32:291 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Address [73], Reg 25: -1
+23:02:32:293 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Address [73], Reg 27: -1
+23:02:32:678 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: MSI GPU
+23:02:32:686 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: MSI GPU
+23:02:32:793 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: Patriot Viper Steel RAM Test
+23:02:32:795 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b00 - Failed Quick Write test on Address: 0x77
+23:02:32:797 @ [0x1dd8] - AMD PIIX4 Bus - 0x0b20 - Failed Quick Write test on Address: 0x77
+23:02:32:807 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: PALIT GPU
+23:02:32:814 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: PNY GPU
+23:02:32:830 @ [0x1dd8] - PLUGIN - Scanning SMBUS Plugin: PNY GPU
+23:02:32:857 @ [0x1dd8] - PLUGIN - Failed to load plugin @ C:/Users/jhona/AppData/Local/VortxEngine/app-2.2.29/Signal-x64/Plugins/QMK/QMK_Keyboard_Example.js - ProductId() returned [0], VendorId() returned [0]
+23:02:33:823 @ [0x1200] - USB - ----------- Initial USB Scan Started -----------
+23:02:33:823 @ [0x1200] - Enumerating USB Host Controllers...
+23:02:33:835 @ [0x1200] - Found USB Host [1] with Path [PCI\VEN_1022&DEV_1639&SUBSYS_50071458&REV_00\4&12C9051D&0&0441]
+23:02:33:835 @ [0x1200] - Found USB Host [2] with Path [PCI\VEN_1022&DEV_1639&SUBSYS_50071458&REV_00\4&12C9051D&0&0341]
+23:02:33:835 @ [0x1200] - Found USB Host [3] with Path [PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&75A1E93&0&0011]
+23:02:33:837 @ [0x1200] - Enumerating USB Devices...
+23:02:33:844 @ [0x1200] - USB - Enumerating USB Parent Devices...
+23:02:33:844 @ [0x1200] - USB - Found USB Parent Device: [USB\VID_046D&PID_C31C\6&29FCAE1D&0&1]
+23:02:33:845 @ [0x1200] - USB - Found USB Parent Device: [USB\VID_045E&PID_00CB\6&29FCAE1D&0&2]
+23:02:33:845 @ [0x1200] - USB - Associating Hid Paths with Parent Devices...
+23:02:33:846 @ [0x1200] - USB - Detected Connection of device: [USB\VID_045E&PID_00CB\6&29FCAE1D&0&2]
+23:02:33:851 @ [0x1200] - USB - USB - Attempting to Initialize Potential Device:
+23:02:33:851 @ [0x1200] - USB - 	 Path: [USB\VID_045E&PID_00CB\6&29FCAE1D&0&2]
+23:02:33:851 @ [0x1200] - USB - 	 Manufacturer: [PixArt]
+23:02:33:851 @ [0x1200] - USB - 	 Product: [Microsoft USB Optical Mouse]
+23:02:33:851 @ [0x1200] - USB - 	 Uid: [045e:00cb:6-29FCAE1D-0-2], Legacy Uid: [045e:00cb:2:2]
+23:02:33:851 @ [0x1200] - USB - Detected Connection of device: [USB\VID_046D&PID_C31C\6&29FCAE1D&0&1]
+23:02:33:858 @ [0x1dd8] - ----------- Plugin Scan Finished -----------
+23:02:33:875 @ [0x1200] - USB - USB - Attempting to Initialize Potential Device:
+23:02:33:875 @ [0x1200] - USB - 	 Path: [USB\VID_046D&PID_C31C\6&29FCAE1D&0&1]
+23:02:33:875 @ [0x1200] - USB - 	 Manufacturer: [Logitech]
+23:02:33:875 @ [0x1200] - USB - 	 Product: [USB Keyboard]
+23:02:33:875 @ [0x1200] - USB - 	 Uid: [046d:c31c:6-29FCAE1D-0-1], Legacy Uid: [046d:c31c:2:1]
+23:02:33:875 @ [0x1200] - USB - WMI Scan Took: [38]ms!
+23:02:33:875 @ [0x1200] - ----------- Initial USB Scan Finished -----------
+23:05:15:041 @ [0x3274] - OCR - Detected Resolution 1920 x 1080
+23:05:15:042 @ [0x3274] - OCR - Engine Started!
+23:05:15:619 @ [0x3274] - OCR - Detected Resolution 1920 x 1080
+23:05:15:619 @ [0x3274] - OCR - Engine Started!
+23:06:33:953 @ [0x1200] - Window - Visibility Changed to 3
+23:06:33:956 @ [0x1200] - Window - Visibility Changed to 0

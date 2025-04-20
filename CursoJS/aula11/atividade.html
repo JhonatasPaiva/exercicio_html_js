@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade</title>
+</head>
+<style>
+    h1 {
+        background: rgb(248, 194, 58);
+        width: 300PX;
+        color: rgb(2, 63, 2);
+        text-align: center;
+    }
+
+    input {
+        display: block;
+    }
+
+    #txt1 {
+        margin-left: 50px;
+    }
+
+    #btn {
+        margin-top: 20px;
+        margin-left: 105px;
+    }
+
+    div {
+        text-align: center;
+        width: 300PX;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+
+</style>
+<body>
+    <h1>Nacionalidade</h1>
+    <input type="text" placeholder="Em qual país você vive?" id="txt1">
+    <input type="button" value="Verificar" onclick="checar()" id="btn">
+    <div id="resposta"></div>
+    <script>
+        function checar() {
+            var país = window.document.getElementById('txt1')
+            var resposta = window.document.getElementById('resposta')
+            var resultado = país.value
+            if (resultado == 'Brasil') {
+                resposta.innerHTML = `<p>Você vive no(a) ${resultado} e sua nacionalidade é <strong>Brasileira<strong></p>`
+            } else {
+                resposta.innerHTML += `<p>Você vive no(a) ${resultado} e sua nacionalidade é <strong>estrangeira<strong></p>`
+            }
+        }
+    </script>
+</body>
+</html>

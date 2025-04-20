@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(0, 153, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    justify-items: center;
+}
+
+h1 {
+    color: white;
+}
+
+section {
+    
+    background-color: white;
+    padding: 30px;
+    width: 500px;
+    border-radius: 8px;
+}
+
+input {
+    margin: 8px;
+    align-items: start;
+    margin-left: 0%;
+}
+
+p {
+    margin: 8px;
+    margin-left: 0%;
+}
+
+#resposta-1{
+    display: flex;
+}

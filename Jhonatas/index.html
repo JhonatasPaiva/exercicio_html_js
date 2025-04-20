@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1 {
+            background-color: rgb(63, 216, 63);
+            padding: 8px;
+            width: 350px;
+            text-align: center;
+        }
+        
+        input {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        div {
+            justify-items: center;
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Calculadora</h1>
+        <input type="number" placeholder="Digite o numero A" id="numero-a">
+        <input type="number" placeholder="Digite o numero B" id="numero-b">
+        <input type="submit" value="Verificar" onclick="verificar()">
+        <p id="resposta"></p>
+    </div>
+<script>
+    function verificar() {
+        var numeroA = window.document.getElementById('numero-a')
+        var numeroB = window.document.getElementById('numero-b')
+        var resposta = window.document.getElementById('resposta')
+        var numA = Number(numeroA.value)
+        var numB = Number(numeroB.value)
+        var resultado = numA < numB
+        if (resultado == true) {
+            resposta.innerHTML = `Sucesso! O número ${numA} inserido no campo A é menor que o número ${numB} inserido no campo B`
+        } else {
+            resposta.innerHTML = `Erro! O número ${numA} inserido no campo A é maior que o número ${numB} inserido no campo B`
+        }
+    }
+</script>
+</body>
+</html>
